@@ -77,7 +77,6 @@ section {
     background-position: center;
     position: relative;
 }
-  
 
   .hero-form {
     border: 3px solid #024e76;
@@ -130,7 +129,7 @@ section {
     margin-bottom: 35px;
     color: #024e76;
   }
-  
+
   .primary-border {
       border-color: #fce138;
   }
