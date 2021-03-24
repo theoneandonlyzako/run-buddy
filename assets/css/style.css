@@ -173,8 +173,16 @@ section {
   }
 
   .step h3 {
+      flex: 1 30%;
       color: #024e76;
       font-size: 46px;
+  }
+
+  .step-info {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex: 2 70%;
   }
 
   .step-text p {
@@ -186,6 +194,19 @@ section {
     font-size: 26px;
     line-height: 1.5;
     color: #024e76;
+  }
+
+  .step-img {
+    flex: 1 12%;
+    margin-right: 20px;
+  }
+
+  .step-img img {
+    max-width: 100%;
+  }
+
+  .step-text {
+    flex: 12;
   }
 
   .step {
